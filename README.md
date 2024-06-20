@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋, I'm Kaif
 
-<!--
-**Kaif9999/Kaif9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on [Backend Development with SpringBoot]
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on [Advance DSA with Java]
+
+🤝 I’m looking for help with [Data Analytics and EDW]
+
+👨‍💻 All of my projects are available at https://github.com/shubham-0707
+
+💬 Ask me about Data Structures and Algorithms , Java, Python , SpringBoot , Hibernate , Apache Kafka , SQL
+
+📫 How to reach me kaifmohd5000@gmail.com
