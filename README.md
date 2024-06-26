@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Kaif
-### Python Developer
+### Python Developer | MERN Stack | AI Dev 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaif9999&label=Profile%20views&color=0e75b6&style=flat" alt="Kaif9999" /> </p>
 
