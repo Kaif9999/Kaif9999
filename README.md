@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaif9999&label=Profile%20views&color=0e75b6&style=flat" alt="Kaif9999" /> </p>
 
-🔭 I’m currently working on Anilyst Project using Python, Next.js, PostgreSQL, FastAPI, OpenAI API
+🔭 I’m currently working on Anilyst Project using Python, React.js/Next.js, PostgreSQL, FastAPI, OpenAI API
 
 🌱 I’m currently learning MERN Stack 
 
